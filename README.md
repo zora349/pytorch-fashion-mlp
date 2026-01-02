@@ -33,3 +33,6 @@ During development, additional experiments were conducted to understand how the 
 pipeline behaves under invalid input shapes or corrupted data.
 These experiments helped clarify the importance of input contracts in ML engineering.
 
+## Results
+The MLP model reaches around 65% test accuracy on FashionMNIST after 15 epochs.
+
